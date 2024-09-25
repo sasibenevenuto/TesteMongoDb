@@ -23,6 +23,9 @@ namespace Services
         }
 
         public async Task<List<Order>> GetAsync() =>
+            await _booksCollection.Find(x => true).ToListAsync();
+
+        public async Task<List<Order>> GetFiltroAsync() =>
             await _booksCollection.Find(x => x.Itens.Where(i => i.Price == 0).Any()).ToListAsync();
 
         public async Task<Order?> GetAsync(string id) =>

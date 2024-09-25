@@ -18,6 +18,11 @@ namespace WebApiTesteMongoDB.Controllers
         public async Task<List<Order>> Get() =>
             await _booksService.GetAsync();
 
+
+        [HttpGet("GetFiltroProduto")]
+        public async Task<List<Order>> GetFilroProduto() =>
+            await _booksService.GetFiltroAsync();
+
         [HttpGet("{id:length(24)}")]
         public async Task<ActionResult<Order>> Get(string id)
         {
@@ -30,6 +35,7 @@ namespace WebApiTesteMongoDB.Controllers
 
             return book;
         }
+
 
         [HttpPost]
         public async Task<IActionResult> Post(Order newBook)
