@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ll1SJD0Bo9FKsCi15J4suldYkkHH7XfjUgEQVReDo8A=",
+  "Source": "WebApiTesteMongoDB",
+  "BasePath": "_content/WebApiTesteMongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
