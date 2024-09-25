@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\sasib\\source\\repos\\WebApiTesteMongoDB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFD379EF-D839-4CEF-9D59-5B20ED8AE98B}|NewFolder1{FFD379EF-D839-4CEF-9D59-5B20ED8AE98B}|C:\\Users\\sasib\\Downloads\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{25DAFAD7-6216-4A0E-8ECC-6FA90E60784C}|Services\\Services.csproj|c:\\users\\sasib\\source\\repos\\webapitestemongodb\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DAFAD7-6216-4A0E-8ECC-6FA90E60784C}|Services\\Services.csproj|solutionrelative:services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1062D441-6251-465B-92E5-89515E4E1A28}|WebApiTesteMongoDB\\WebApiTesteMongoDB.csproj|c:\\users\\sasib\\source\\repos\\webapitestemongodb\\webapitestemongodb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1062D441-6251-465B-92E5-89515E4E1A28}|WebApiTesteMongoDB\\WebApiTesteMongoDB.csproj|solutionrelative:webapitestemongodb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD379EF-D839-4CEF-9D59-5B20ED8AE98B}|MassaDeDados{FFD379EF-D839-4CEF-9D59-5B20ED8AE98B}|C:\\Users\\sasib\\Downloads\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12AD85F1-176F-4B6F-B43D-EBB54F09A02E}|Model\\Model.csproj|c:\\users\\sasib\\source\\repos\\webapitestemongodb\\model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -14,16 +22,8 @@
       "RelativeMoniker": "D:0:0:{12AD85F1-176F-4B6F-B43D-EBB54F09A02E}|Model\\Model.csproj|solutionrelative:model\\ecommerce\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1062D441-6251-465B-92E5-89515E4E1A28}|WebApiTesteMongoDB\\WebApiTesteMongoDB.csproj|c:\\users\\sasib\\source\\repos\\webapitestemongodb\\webapitestemongodb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1062D441-6251-465B-92E5-89515E4E1A28}|WebApiTesteMongoDB\\WebApiTesteMongoDB.csproj|solutionrelative:webapitestemongodb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1062D441-6251-465B-92E5-89515E4E1A28}|WebApiTesteMongoDB\\WebApiTesteMongoDB.csproj|c:\\users\\sasib\\source\\repos\\webapitestemongodb\\webapitestemongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1062D441-6251-465B-92E5-89515E4E1A28}|WebApiTesteMongoDB\\WebApiTesteMongoDB.csproj|solutionrelative:webapitestemongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25DAFAD7-6216-4A0E-8ECC-6FA90E60784C}|Services\\Services.csproj|c:\\users\\sasib\\source\\repos\\webapitestemongodb\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25DAFAD7-6216-4A0E-8ECC-6FA90E60784C}|Services\\Services.csproj|solutionrelative:services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12AD85F1-176F-4B6F-B43D-EBB54F09A02E}|Model\\Model.csproj|c:\\users\\sasib\\source\\repos\\webapitestemongodb\\model\\ecommercedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,63 +49,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "orders.json",
               "DocumentMoniker": "C:\\Users\\sasib\\Downloads\\orders.json",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\orders.json",
               "ToolTip": "C:\\Users\\sasib\\Downloads\\orders.json",
               "RelativeToolTip": "..\\..\\..\\Downloads\\orders.json",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAHwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-25T11:43:40.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T11:43:40.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Model",
+              "DocumentIndex": 3,
+              "Title": "Model.csproj",
               "DocumentMoniker": "C:\\Users\\sasib\\source\\repos\\WebApiTesteMongoDB\\Model\\Model.csproj",
               "RelativeDocumentMoniker": "Model\\Model.csproj",
               "ToolTip": "C:\\Users\\sasib\\source\\repos\\WebApiTesteMongoDB\\Model\\Model.csproj",
               "RelativeToolTip": "Model\\Model.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-25T11:33:40.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T11:33:40.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\sasib\\source\\repos\\WebApiTesteMongoDB\\WebApiTesteMongoDB\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "WebApiTesteMongoDB\\Controllers\\OrdersController.cs",
               "ToolTip": "C:\\Users\\sasib\\source\\repos\\WebApiTesteMongoDB\\WebApiTesteMongoDB\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "WebApiTesteMongoDB\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T11:32:09.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "OrdersService.cs",
               "DocumentMoniker": "C:\\Users\\sasib\\source\\repos\\WebApiTesteMongoDB\\Services\\OrdersService.cs",
               "RelativeDocumentMoniker": "Services\\OrdersService.cs",
               "ToolTip": "C:\\Users\\sasib\\source\\repos\\WebApiTesteMongoDB\\Services\\OrdersService.cs",
               "RelativeToolTip": "Services\\OrdersService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T11:27:00.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sasib\\source\\repos\\WebApiTesteMongoDB\\WebApiTesteMongoDB\\Program.cs",
               "RelativeDocumentMoniker": "WebApiTesteMongoDB\\Program.cs",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "WebApiTesteMongoDB\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T11:24:52.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T11:24:52.628Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "Model\\ECommerceDatabase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T11:24:18.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T11:24:18.848Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "WebApiTesteMongoDB\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-25T11:22:48.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T11:22:48.958Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "Model\\ECommerce\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T11:15:53.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T11:15:53.531Z"
             },
             {
               "$type": "Document",
@@ -165,12 +159,11 @@
               "RelativeToolTip": "Model\\ECommerce\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T11:14:06.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T11:14:06.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\sasib\\source\\repos\\WebApiTesteMongoDB\\Model\\ECommerce\\Order.cs",
               "RelativeDocumentMoniker": "Model\\ECommerce\\Order.cs",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "Model\\ECommerce\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T10:38:42.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T10:38:42.876Z"
             }
           ]
         }

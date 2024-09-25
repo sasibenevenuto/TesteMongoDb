@@ -48,3 +48,4 @@ C:\Users\sasib\source\repos\WebApiTesteMongoDB\WebApiTesteMongoDB\bin\Debug\net8
 C:\Users\sasib\source\repos\WebApiTesteMongoDB\WebApiTesteMongoDB\bin\Debug\net8.0\Services.dll
 C:\Users\sasib\source\repos\WebApiTesteMongoDB\WebApiTesteMongoDB\bin\Debug\net8.0\Model.pdb
 C:\Users\sasib\source\repos\WebApiTesteMongoDB\WebApiTesteMongoDB\bin\Debug\net8.0\Services.pdb
+C:\Users\sasib\source\repos\WebApiTesteMongoDB\WebApiTesteMongoDB\obj\Debug\net8.0\WebApiTesteMongoDB.sourcelink.json

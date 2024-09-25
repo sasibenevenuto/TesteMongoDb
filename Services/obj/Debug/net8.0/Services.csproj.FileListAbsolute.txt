@@ -13,3 +13,4 @@ C:\Users\sasib\source\repos\WebApiTesteMongoDB\Services\obj\Debug\net8.0\Service
 C:\Users\sasib\source\repos\WebApiTesteMongoDB\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\sasib\source\repos\WebApiTesteMongoDB\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\sasib\source\repos\WebApiTesteMongoDB\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\sasib\source\repos\WebApiTesteMongoDB\Services\obj\Debug\net8.0\Services.sourcelink.json
